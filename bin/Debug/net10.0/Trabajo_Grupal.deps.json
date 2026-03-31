@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Trabajo_Grupal/1.0.0": {
+        "runtime": {
+          "Trabajo_Grupal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Trabajo_Grupal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

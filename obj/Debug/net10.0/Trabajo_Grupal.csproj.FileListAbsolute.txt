@@ -1,0 +1,15 @@
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.AssemblyInfoInputs.cache
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.AssemblyInfo.cs
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.sourcelink.json
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\bin\Debug\net10.0\Trabajo_Grupal.exe
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\bin\Debug\net10.0\Trabajo_Grupal.deps.json
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\bin\Debug\net10.0\Trabajo_Grupal.runtimeconfig.json
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\bin\Debug\net10.0\Trabajo_Grupal.dll
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\bin\Debug\net10.0\Trabajo_Grupal.pdb
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.dll
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\refint\Trabajo_Grupal.dll
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.pdb
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\Trabajo_Grupal.genruntimeconfig.cache
+C:\Users\UPN\Calculadora_grupal-1\Trabajo_Grupal\obj\Debug\net10.0\ref\Trabajo_Grupal.dll
